@@ -263,6 +263,4 @@ Temporarily disable Windows Defender or your antivirus, then run the installer. 
 Always yours, with love for your comfort. ❤️
 
 
-Always yours, with love for your comfort. ❤️
-
 
